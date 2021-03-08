@@ -102,5 +102,5 @@ let g:coc_global_extensions = [
   \'coc-go',
   \'coc-html',
   \'coc-json',
-  \'coc-tsserver'
-]
+  \'coc-tsserver',
+  \]
